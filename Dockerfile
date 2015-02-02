@@ -1,4 +1,4 @@
-# Docker version 1.3.X
+# Docker version 1.4.X
 #
 # To build: sudo docker build --force-rm=true -t visualjeff/ubuntu-14.04:latest .
 
