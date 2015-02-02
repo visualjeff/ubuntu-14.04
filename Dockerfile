@@ -1,7 +1,6 @@
 # Docker version 1.3.X
 #
-# To build: sudo docker build --force-rm=true -t visualjeff/ubuntu:14.04 .
-# To tag: sudo docker tag f43f1a247897 visualjeff/ubuntu:latest 
+# To build: sudo docker build --force-rm=true -t visualjeff/ubuntu-14.04:latest .
 
 FROM    ubuntu:14.04
  
